@@ -61,7 +61,7 @@ The game dynamically adjusts the experience to ensure children learn effectively
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ARYANSINGH0611/PronouncePerfect.git
    ```
 2. Install dependencies:
    ```bash
