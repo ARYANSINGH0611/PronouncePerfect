@@ -1,0 +1,10 @@
+streamlit==1.30.0
+speechrecognition
+gtts
+pygame
+sounddevice
+numpy
+scipy
+pyttsx3
+wavio
+pydub
