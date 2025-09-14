@@ -93,8 +93,5 @@ The game dynamically adjusts the experience to ensure children learn effectively
 ## Contribution
 Contributions are welcome! Please open an issue or submit a pull request for any feature suggestions or bug fixes.
 
----
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
